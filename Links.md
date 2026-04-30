@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 01:50 IR
+- 📱 [v2rayNG_2.1.4-fdroid_arm64-v8a.apk](https://github.com/SoloRmy/Gitbox/raw/main/dl/v2rayNG_2.1.4-fdroid_arm64-v8a.apk) `26.8MB`
+
+---
+
+
 ### 📅 2026-05-01 01:03 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.9.3.apk](https://github.com/SoloRmy/Gitbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.3.apk) `18.1MB`
 
