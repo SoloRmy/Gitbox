@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-02 00:07 IR
+- 📱 [masterdnsvpn-HN-1.2.2-arm64-v8a.apk](https://github.com/SoloRmy/Gitbox/raw/main/dl/masterdnsvpn-HN-1.2.2-arm64-v8a-release.apk) `10.0MB`
+
+---
+
+
 ### 📅 2026-05-01 21:38 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.9.7.apk](https://github.com/SoloRmy/Gitbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.7.apk) `18.1MB`
 
