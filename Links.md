@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-02 22:57 IR
+- 📱 [VaydnsVpn-v1.8.0-arm64-v8a.apk](https://github.com/SoloRmy/Gitbox/raw/main/dl/VaydnsVpn-v1.8.0-arm64-v8a.apk) `10.4MB`
+
+---
+
+
 ### 📅 2026-05-02 10:39 IR
 - 📱 [Happ.apk](https://github.com/SoloRmy/Gitbox/raw/main/dl/Happ.apk) `54.0MB`
 
