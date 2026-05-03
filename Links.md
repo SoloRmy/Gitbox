@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-03 18:36 IR
+- 📱 [v2rayNG_2.1.5-fdroid_arm64-v8a.apk](https://github.com/SoloRmy/Gitbox/raw/main/dl/v2rayNG_2.1.5-fdroid_arm64-v8a.apk) `26.8MB`
+
+---
+
+
 ### 📅 2026-05-03 13:15 IR
 - 📱 [range-scout-v0.1.2-arm64-v8a-signed.apk](https://github.com/SoloRmy/Gitbox/raw/main/dl/range-scout-v0.1.2-arm64-v8a-release-signed.apk) `9.8MB`
 
