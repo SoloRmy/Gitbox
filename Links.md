@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-05 13:43 IR
+- 📱 [zyrln-1.2.1.apk](https://github.com/SoloRmy/Gitbox/raw/main/dl/zyrln-1.2.1.apk) `22.9MB`
+
+---
+
+
 ### 📅 2026-05-04 03:57 IR
 - 📱 [Exclave-0.17.38-arm64-v8a.apk](https://github.com/SoloRmy/Gitbox/raw/main/dl/Exclave-0.17.38-arm64-v8a.apk) `22.2MB`
 
