@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-06 09:57 IR
+- 📱 [zyrln-1.4.0.apk](https://github.com/SoloRmy/Gitbox/raw/main/dl/zyrln-1.4.0.apk) `22.9MB`
+
+- 📥 [zyrln-windows-amd64.exe](https://github.com/SoloRmy/Gitbox/raw/main/dl/zyrln-windows-amd64.exe) `9.7MB`
+
+---
+
+
 ### 📅 2026-05-05 13:43 IR
 - 📱 [zyrln-1.2.1.apk](https://github.com/SoloRmy/Gitbox/raw/main/dl/zyrln-1.2.1.apk) `22.9MB`
 
